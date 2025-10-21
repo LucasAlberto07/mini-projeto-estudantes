@@ -18,3 +18,5 @@ O projeto foi proposto pelos **Programadores do Amanhã** como parte das ativida
 
 ## 🧱 Estrutura do projeto
 
+<img width="304" height="188" alt="image" src="https://github.com/user-attachments/assets/08df9088-b43a-4441-909c-aaad54c3658f" />
+
